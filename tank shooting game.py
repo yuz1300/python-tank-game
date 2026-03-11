@@ -1,4 +1,4 @@
-import pythongame
+import pygame
 import sys
 import random
 
@@ -204,3 +204,4 @@ def runGame():
 
 initGame()
 runGame()
+
